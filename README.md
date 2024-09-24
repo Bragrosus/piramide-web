@@ -1,1 +1,1 @@
-Proyecto de renovación del sitio web de Piramide Soluciones Informáticas (http://piramidesoluciones.com/) utilizando tecnologías modernas para mejorar la experiencia del usuario y optimizar su rendimiento.
+Proyecto de renovación del sitio web de Piramide Soluciones Informáticas (http://piramidesoluciones.com/) utilizando tecnologías modernas para mejorar la experiencia del usuario y optimizar su rendimiento. Trabajo en conjunto con Atilio Rausch, Francisco Gonzalez y Brian Gareis
